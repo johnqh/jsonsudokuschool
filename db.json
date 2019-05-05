@@ -155,13 +155,6 @@
           ]
       }
   ],
-  "game":[  
-      {  
-          "original":"000070609000000010001040000045000020060085100200001030710000248030002050000000000",
-          "level":"3",
-          "points":56
-      }
-  ],
   "accesses":[
       {
           "key":"0",
@@ -176,49 +169,14 @@
           "title":"Paid membership required"
       }
   ],
-  "subscriptions":[  
+  "game":[  
       {  
-          "key":"1",
-          "title":"Free",
-          "period":"<null>",
-          "period_unit":"<null>",
-          "price":"<null>",
-          "visible":0
-      },
-      {  
-          "key":"2",
-          "title":"Monthly",
-          "period":"1",
-          "period_unit":"m",
-          "price":"$9.95",
-          "visible":1
-      },
-      {  
-          "key":"3",
-          "title":"Quarterly",
-          "period":"3",
-          "period_unit":"m",
-          "price":"$19.95",
-          "visible":1
-      },
-      {  
-          "key":"4",
-          "title":"Yearly",
-          "period":"12",
-          "period_unit":"m",
-          "price":"$39.95",
-          "visible":1
+          "original":"000070609000000010001040000045000020060085100200001030710000248030002050000000000",
+          "level":"3",
+          "points":56
       }
   ],
-  "user":{  
-      "first_name":"John",
-      "last_name":"Huang",
-      "email":"johnqh@yahoo.com",
-      "access":1,
-      "level":"4",
-      "points":5609,
-      "subscription":1,
-      "subscripation_start":"2001-09-08",
-      "subscripation_end":"2020-09-09"
+  "complete":{
+    "points":78
   }
 }
